@@ -1,6 +1,12 @@
+# Ejercicio: Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ
+# Nombre del estudiante: Omar David Lopez Gordillo
+# Grupo: 213023_256
+# Programa: Ingeniería de Sistemas 
+# Código Fuente: autoría propia
+
 """
 Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ
-Programación Orientada a Objetos con manejo avanzado de excepciones
+programación orientada a objetos y el manejo avanzado de excepciones
 """
 
 import re
