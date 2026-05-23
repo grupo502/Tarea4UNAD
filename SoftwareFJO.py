@@ -6,7 +6,7 @@
 
 """
 Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ
-programación orientada a objetos y el manejo avanzado de excepciones
+Programación orientada a objetos y el manejo avanzado de excepciones
 """
 
 import re
